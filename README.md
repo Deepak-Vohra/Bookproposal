@@ -30,62 +30,64 @@ Key benefits:
 
 ## Outline
 
-1. How is Sudoku played
-  1.1 Simple example
-  1.2 Not so simple
-  1.3 Level Up
-2. The Sudoku Algorithm
-3. Easy as 1-2-3  
-  3.1 Add all possible choices
-  3.2 Start solving
-  3.3 Solving some uncovers others
-  3.4 Solve one square at a time
-  3.5 Find more squares with one numeral each
-  3.6 Finalize one square at a time
-  3.7 Found two more
-  3.8 Found three more
-  3.9 Solve some, find others
-  3.10 Found a whole lot more
-  3.11 Find in bulk, solve one at a time
-  3.12 Solving some, uncovers others
-  3.13 Some new squares are already solved
-  3.14 Picking up momentum
-  3.15 The last set
-  3.16 One more 
-4. Medium Level
-  4.1 Fill in the blanks
-  4.2 Solve the easy ones first
-  4.3 This is what makes it medium level
-  4.4 The only one in a row
-  4.5 Restart
-  4.6 The only one in a 3x3 grid
-  4.7 Not much momentum yet 
-  4.8 Found two easy squares
-  4.9 Found three more easy squares
-  4.10 Found only one square this time
-  4.11 The only one in its row, column and 3x3 grid
-  4.12 Find and solve one square at a time
-  4.13 Find squares to solve in bulk
-  4.14 Solve together
-  4.15 Back to one square at a time
-  4.16 Found two easy squares
-  4.17 Picking up momentum
-  4.18 The last set
-5. Difficult Level 
-  5.1 Add all possible choices in each empty square
-  5.2 Off to an easy start
-  5.3 Medium level
-  5.4 This is what makes this puzzle upper difficulty level
-  5.5 Finally, broke the impasse
-  5.6 Only one in its row, column, or 3x3 grid
-  5.7 Back to the easy level
-  5.8 The last square
+1. How is Sudoku played\
+  1.1 Simple example\
+  1.2 Not so simple\
+  1.3 Level Up\
+2. The Sudoku Algorithm\
+3. Easy as 1-2-3\  
+  3.1 Add all possible choices\
+  3.2 Start solving\
+  3.3 Solving some uncovers others\
+  3.4 Solve one square at a time\
+  3.5 Find more squares with one numeral each\
+  3.6 Finalize one square at a time\
+  3.7 Found two more\
+  3.8 Found three more\
+  3.9 Solve some, find others\
+  3.10 Found a whole lot more\
+  3.11 Find in bulk, solve one at a time\
+  3.12 Solving some, uncovers others\
+  3.13 Some new squares are already solved\
+  3.14 Picking up momentum\
+  3.15 The last set\
+  3.16 One more\ 
+4. Medium Level\
+  4.1 Fill in the blanks\
+  4.2 Solve the easy ones first\
+  4.3 This is what makes it medium level\
+  4.4 The only one in a row\
+  4.5 Restart\
+  4.6 The only one in a 3x3 grid\
+  4.7 Not much momentum yet\ 
+  4.8 Found two easy squares\
+  4.9 Found three more easy squares\
+  4.10 Found only one square this time\
+  4.11 The only one in its row, column and 3x3 grid\
+  4.12 Find and solve one square at a time\
+  4.13 Find squares to solve in bulk\
+  4.14 Solve together\
+  4.15 Back to one square at a time\
+  4.16 Found two easy squares\
+  4.17 Picking up momentum\
+  4.18 The last set\
+5. Difficult Level\ 
+  5.1 Add all possible choices in each empty square\
+  5.2 Off to an easy start\
+  5.3 Medium level\
+  5.4 This is what makes this puzzle upper difficulty level\
+  5.5 Finally, broke the impasse\
+  5.6 Only one in its row, column, or 3x3 grid\
+  5.7 Back to the easy level\
+  5.8 The last square\
 
 ## Bio
 
 Deepak Vohra is an author of technical articles & books on Java and various open source technologies. Deepak has an educational background in math & engineering with a B.E. and M.S. in mechanical engineering. Deepak is a Fellow British Computer Society (FBCS).  
 
-List the books that compete indirectly or directly and tell us how yours is different and better. Why would a reader choose your book over the others that are on the market? I have not found a single book that takes an algorithmic approach to solving Sudoku, at least not in the top 100 books on Sudoku on Amazon.com : https://www.amazon.com/gp/bestsellers/books/15756641/ref=pd_zg_hrsr_books
+List the books that compete indirectly or directly and tell us how yours is different and better. Why would a reader choose your book over the others that are on the market? 
+
+I have not found a single book that takes an algorithmic approach to solving Sudoku, at least not in the top 100 books on Sudoku on Amazon.com : https://www.amazon.com/gp/bestsellers/books/15756641/ref=pd_zg_hrsr_books
 
 ## PragProg Books
 
