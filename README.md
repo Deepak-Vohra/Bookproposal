@@ -35,7 +35,7 @@ Key benefits:
   1.2 Not so simple\
   1.3 Level Up
 2. The Sudoku Algorithm
-3. Easy as 1-2-3
+3. Easy as 1-2-3\
   3.1 Add all possible choices\
   3.2 Start solving\
   3.3 Solving some uncovers others\
