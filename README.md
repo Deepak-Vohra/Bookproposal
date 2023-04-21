@@ -59,7 +59,7 @@ Key benefits:
   4.4 The only one in a row\
   4.5 Restart\
   4.6 The only one in a 3x3 grid\
-  4.7 Not much momentum yet\ 
+  4.7 Not much momentum yet\
   4.8 Found two easy squares\
   4.9 Found three more easy squares\
   4.10 Found only one square this time\
@@ -71,7 +71,7 @@ Key benefits:
   4.16 Found two easy squares\
   4.17 Picking up momentum\
   4.18 The last set
-5. Difficult Level\ 
+5. Difficult Level\
   5.1 Add all possible choices in each empty square\
   5.2 Off to an easy start\
   5.3 Medium level\
