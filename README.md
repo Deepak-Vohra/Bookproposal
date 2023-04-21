@@ -51,8 +51,8 @@ Key benefits:
   3.13 Some new squares are already solved\
   3.14 Picking up momentum\
   3.15 The last set\
-  3.16 One more\ 
-4. Medium Level\
+  3.16 One more
+4. Medium Level
   4.1 Fill in the blanks\
   4.2 Solve the easy ones first\
   4.3 This is what makes it medium level\
@@ -70,8 +70,8 @@ Key benefits:
   4.15 Back to one square at a time\
   4.16 Found two easy squares\
   4.17 Picking up momentum\
-  4.18 The last set\
-5. Difficult Level\ 
+  4.18 The last set
+5. Difficult Level 
   5.1 Add all possible choices in each empty square\
   5.2 Off to an easy start\
   5.3 Medium level\
