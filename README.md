@@ -81,8 +81,6 @@ Deepak Vohra is an author of technical articles & books on Java and various open
 Numerical Brain Teasers
 by Erica Sadun
 
-List the books that compete indirectly or directly and tell us how yours is different and better. Why would a reader choose your book over the others that are on the market? 
-
 I have not found a single book that takes an algorithmic approach to solving Sudoku, at least not in the top 100 books on Sudoku on Amazon.com : https://www.amazon.com/gp/bestsellers/books/15756641/ref=pd_zg_hrsr_books
 
 ## Market Size
