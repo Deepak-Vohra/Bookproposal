@@ -1,13 +1,4 @@
-Proposal Template
 
-The Pragmatic Programmers
-https://pragprog.com
-
-Write your proposal in this template using standard Markdown (see https://www.markdownguide.org/basic-syntax) and send it to proposals@pragprog.com.
-
-Thanks for choosing PragProg as your writing partner — we can’t wait to read your proposal!
-
-----
 
 ## Book Title:
 Learn to Solve Sudoku Algorithmically
@@ -89,7 +80,7 @@ List the books that compete indirectly or directly and tell us how yours is diff
 
 I have not found a single book that takes an algorithmic approach to solving Sudoku, at least not in the top 100 books on Sudoku on Amazon.com : https://www.amazon.com/gp/bestsellers/books/15756641/ref=pd_zg_hrsr_books
 
-## PragProg Books
+## Similar Books
 
 Numerical Brain Teasers
 by Erica Sadun
