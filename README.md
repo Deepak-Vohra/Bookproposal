@@ -76,14 +76,14 @@ Key benefits:
 
 Deepak Vohra is an author of technical articles & books on Java and various open source technologies. Deepak has an educational background in math & engineering with a B.E. and M.S. in mechanical engineering. Deepak is a Fellow British Computer Society (FBCS).  
 
-List the books that compete indirectly or directly and tell us how yours is different and better. Why would a reader choose your book over the others that are on the market? 
-
-I have not found a single book that takes an algorithmic approach to solving Sudoku, at least not in the top 100 books on Sudoku on Amazon.com : https://www.amazon.com/gp/bestsellers/books/15756641/ref=pd_zg_hrsr_books
-
 ## Similar Books
 
 Numerical Brain Teasers
 by Erica Sadun
+
+List the books that compete indirectly or directly and tell us how yours is different and better. Why would a reader choose your book over the others that are on the market? 
+
+I have not found a single book that takes an algorithmic approach to solving Sudoku, at least not in the top 100 books on Sudoku on Amazon.com : https://www.amazon.com/gp/bestsellers/books/15756641/ref=pd_zg_hrsr_books
 
 ## Market Size
 
