@@ -19,6 +19,11 @@ Key benefits:
 - Use a methodical but flexible approach instead of a hit-and-miss approach
 - All you need is a Sudoku puzzle, a pencil, and an eraser
 
+## Audience & Scope
+
+- Math puzzles Aficionados
+- Supplementary textbook on Math
+
 ## Outline
 
 1. How is Sudoku played\
