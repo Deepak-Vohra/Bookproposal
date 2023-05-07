@@ -79,7 +79,7 @@ Key benefits:
 
 ## Bio
 
-Deepak Vohra is an author of technical articles & books on Java and various open source technologies. Deepak has an educational background in math & engineering with a B.E. and M.S. in mechanical engineering. Deepak is a Fellow British Computer Society (FBCS).  
+Deepak Vohra is an author of technical articles & books on Java and various open source technologies. Deepak has published more than 20 books. Deepak is a Fellow British Computer Society (FBCS).  
 
 ## Similar Books
 
